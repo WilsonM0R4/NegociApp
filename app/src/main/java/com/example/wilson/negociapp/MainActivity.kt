@@ -4,6 +4,7 @@ import android.content.Intent
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.Toast
 
 class MainActivity : AppCompatActivity() {
 
@@ -17,7 +18,7 @@ class MainActivity : AppCompatActivity() {
         startActivity(intent)
     }
 
-    fun loginClicked () {
-
+    fun loginClicked (view : View) {
+        Toast.makeText(this, "Login clicked", Toast.LENGTH_SHORT).show()
     }
 }
