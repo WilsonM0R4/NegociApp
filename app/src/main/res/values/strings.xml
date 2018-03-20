@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">NegociApp</string>
+    <string name="welcome_text">¡Bienvenid@!</string>
+    <string name="welcome_again_text">¡Bienvenid@ de nuevo!</string>
+    <string name="sign_in_text">Ingresa</string>
+    <string name="register_business">Registra tu empresa</string>
+    <string name="accept_button_text">Aceptar</string>
+    <string name="next_button_text">Siguiente</string>
+    <string name="cancel_button_text">Cancelar</string>
+    <string name="back_button_text">Volver</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
